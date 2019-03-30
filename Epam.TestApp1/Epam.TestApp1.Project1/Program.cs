@@ -12,6 +12,8 @@ namespace Epam.TestApp1.Project1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("im second");
+
+            Console.WriteLine("Hello from 30.03");
             Console.ReadKey();
         }
     }
