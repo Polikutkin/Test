@@ -18,6 +18,7 @@ namespace Epam.TestApp1.Project1
 
             Console.WriteLine("Hiiiiiiiiiiii");
             Console.WriteLine("1 feat");
+            Console.WriteLine("2 feat");
             Console.ReadKey();
         }
     }
