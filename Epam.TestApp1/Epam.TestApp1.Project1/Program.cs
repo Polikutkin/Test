@@ -17,6 +17,7 @@ namespace Epam.TestApp1.Project1
             Console.WriteLine("This is pushed from second repo");
 
             Console.WriteLine("Hiiiiiiiiiiii");
+            Console.WriteLine("1 feat");
             Console.ReadKey();
         }
     }
