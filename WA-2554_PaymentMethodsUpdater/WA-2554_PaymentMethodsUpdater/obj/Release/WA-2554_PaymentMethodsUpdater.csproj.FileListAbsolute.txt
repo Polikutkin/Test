@@ -1,0 +1,14 @@
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA_2554_PaymentMethodsUpdater.Resources.resources
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.csproj.GenerateResource.cache
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.csproj.CoreCompileInputs.cache
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\Resources\NewTariffTable.xml
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\Resources\ProductList.txt
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\WA-2554_PaymentMethodsUpdater.exe.config
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\WA-2554_PaymentMethodsUpdater.exe
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\WA-2554_PaymentMethodsUpdater.pdb
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\EPPlus.dll
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\bin\Release\EPPlus.xml
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.csproj.CopyComplete
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.exe
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.pdb
+C:\Users\angelina_sadokhina\source\repos\WA-2554_PaymentMethodsUpdater\WA-2554_PaymentMethodsUpdater\obj\Release\WA-2554_PaymentMethodsUpdater.csprojAssemblyReference.cache

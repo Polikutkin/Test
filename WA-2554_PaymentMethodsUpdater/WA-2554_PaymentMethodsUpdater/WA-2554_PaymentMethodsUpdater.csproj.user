@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-p "C:\Users\angelina_sadokhina\Downloads\Агенты ЮЛ в Web-auto.Top1000.xlsx" -c</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'QA|AnyCPU'">
+    <StartArguments>-p "C:\Users\angelina_sadokhina\Downloads\Агенты ЮЛ в Web-auto.Top1000.xlsx"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Latest|AnyCPU'">
+    <StartArguments>-p "C:\Users\angelina_sadokhina\Downloads\Агенты ЮЛ в Web-auto.xlsx"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-p "C:\Users\angelina_sadokhina\Downloads\Агенты ЮЛ в Web-auto.Top1000.xlsx" -c</StartArguments>
+  </PropertyGroup>
+</Project>

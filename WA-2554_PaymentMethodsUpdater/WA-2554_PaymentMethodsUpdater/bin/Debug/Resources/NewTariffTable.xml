@@ -1,0 +1,32 @@
+<trf:definitions transform="calculations.xslt" xmlns:trf="http://tempuri.org/calculations.xsd" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:ns1="http://tempuri.org/policy.xsd" xmlns:xsf="http://schemas.microsoft.com/office/infopath/2003/solutionDefinition">
+	<trf:definition>
+		<trf:values>
+			<trf:value id="paymentMethods">
+				<trf:c>
+					<trf:v id="paymentMethod" value="4C06132B-20DD-4B0D-9B75-87C9701DCF5D" />
+					<trf:v id="isMethodAvailable" value="62493241-3E00-4CBF-8BFF-56C57E7F592A" />
+				</trf:c>
+				<trf:c>
+					<trf:v id="paymentMethod" value="D905A8C0-2130-4ABB-86BD-2F6C9925FBA9" />
+					<trf:v id="isMethodAvailable" value="62493241-3E00-4CBF-8BFF-56C57E7F592A" />
+				</trf:c>
+				<trf:c> 
+					<trf:v id="paymentMethod" value="B60B6AB4-8777-41FD-924F-21A115CBEE55" />
+					<trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" />
+				</trf:c>
+				<trf:c> 
+					<trf:v id="paymentMethod" value="A43AEFF0-85AE-47B5-A611-DB5648B1DD17" />
+					<trf:v id="isMethodAvailable" value="62493241-3E00-4CBF-8BFF-56C57E7F592A" />
+				</trf:c>
+				<trf:c> 
+					<trf:v id="paymentMethod" value="631C4EE4-BD61-4838-A9AB-115B4DB02F88" />
+					<trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" />
+				</trf:c>
+				<trf:c> 
+					<trf:v id="paymentMethod" value="DE918E7C-F355-4A01-B2F9-A7642DD5B3FB" />
+					<trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" />
+				</trf:c>
+			</trf:value>
+		</trf:values>
+	</trf:definition>
+</trf:definitions>

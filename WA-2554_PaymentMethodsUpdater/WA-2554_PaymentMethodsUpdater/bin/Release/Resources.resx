@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Param_Actual_Type" xml:space="preserve">
+    <value>System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Param_Key" xml:space="preserve">
+    <value>paymentMethods</value>
+  </data>
+  <data name="Param_Value" xml:space="preserve">
+    <value>&lt;trf:definitions transform="calculations.xslt" xmlns:trf="http://tempuri.org/calculations.xsd" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:ns1="http://tempuri.org/policy.xsd" xmlns:xsf="http://schemas.microsoft.com/office/infopath/2003/solutionDefinition"&gt;
+  &lt;trf:definition&gt;
+    &lt;trf:values&gt;
+      &lt;trf:value id="paymentMethods"&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="4C06132B-20DD-4B0D-9B75-87C9701DCF5D" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="62493241-3E00-4CBF-8BFF-56C57E7F592A" /&gt;
+        &lt;/trf:c&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="D905A8C0-2130-4ABB-86BD-2F6C9925FBA9" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="62493241-3E00-4CBF-8BFF-56C57E7F592A" /&gt;
+        &lt;/trf:c&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="B60B6AB4-8777-41FD-924F-21A115CBEE55" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" /&gt;
+        &lt;/trf:c&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="A43AEFF0-85AE-47B5-A611-DB5648B1DD17" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" /&gt;
+        &lt;/trf:c&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="631C4EE4-BD61-4838-A9AB-115B4DB02F88" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" /&gt;
+        &lt;/trf:c&gt;
+        &lt;trf:c&gt;
+          &lt;trf:v id="paymentMethod" value="DE918E7C-F355-4A01-B2F9-A7642DD5B3FB" /&gt;
+          &lt;trf:v id="isMethodAvailable" value="EF0E2622-A0A1-4EC9-94D8-C748017C78A2" /&gt;
+        &lt;/trf:c&gt;
+      &lt;/trf:value&gt;
+    &lt;/trf:values&gt;
+  &lt;/trf:definition&gt;
+&lt;/trf:definitions&gt;</value>
+  </data>
+  <data name="Param_Value_Type" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="ProcName_AddFilial" xml:space="preserve">
+    <value>TempProc_PaymentMethodsUpdater_AddFilial</value>
+  </data>
+  <data name="ProcName_AddOrUpdateProfileSetting" xml:space="preserve">
+    <value>AddOrUpdateProfileSetting</value>
+  </data>
+  <data name="ProcName_GetParentById" xml:space="preserve">
+    <value>TempProc_PaymentMethodsUpdater_GetParentIdByLogin</value>
+  </data>
+  <data name="ProcName_WasFilialProcessed" xml:space="preserve">
+    <value>TempProc_PaymentMethodsUpdater_WasFilialProcessed</value>
+  </data>
+  <data name="ProductsList" xml:space="preserve">
+    <value>AAFF9064-DF2D-49AA-9374-F801BFDD0DDC
+59E1E8EE-4869-48AF-A550-AD74C76FA523
+77000DA2-12A5-4EA2-90CC-138AE7C8FF18
+BBDFAD2C-FA51-47A6-A6DD-51D0A1B0DA87
+DDA21D0A-79DF-48B7-8F3E-687691AB94FF
+684F8FCB-A14C-4C89-A7BA-AD86E1913E81
+E3EF8BAF-8B80-4C77-A77A-28AF183E2BE8
+EB19E9B5-F596-498E-B854-D2EA24E02C6D
+C2267100-147C-4289-A275-02276803082A
+DA970C05-9C7A-4BE3-B51C-A997EDDC107A
+AC7B9EE6-AE1C-4763-B8EB-CC0182D6BE45
+C02B8892-8F29-43A4-B277-5438713D6EF0
+86378FFA-C8BF-4F5B-A8E5-37888D50349D
+D9B7A0FF-F854-4C96-8EFC-E0BA8CB28AC8
+6D95D72B-C0FF-4AF7-A0E3-8932E1EAFBD5
+EE693C39-D187-4F33-9D32-9300D9CA3EC0
+EFA8880D-6F66-46AE-8C02-61421436A023
+A582F7CE-CDEF-4354-94A8-50A0E041B8F3
+2CC9091B-0F11-46C9-9FCB-001F1B4F48BD
+21BD7CF4-C266-43A7-B17F-04D019BCC184
+E4FE3629-3116-485F-B89F-5B4E0CCF3C6D
+ADB9A96C-3138-44C6-8D66-D5DFBF8F11A7
+11B225FC-EC7A-40DC-9837-B8C0925F56DD
+A68ABEE6-14EF-466C-8287-17313DFF6CB0
+F5D8376F-AFFD-4024-BD80-5BCC71E0E67D
+D72F032C-26CB-4C36-9954-ED6B2D870BB8
+A4FA3E83-9D31-4D42-8002-8067DFF0429C
+E1B8CDF6-477A-4F21-935A-C005D2AA4ED9
+ABB8540F-4BA2-4CD9-8968-7F3DBEB11205
+C1852577-B693-420C-BE0F-E0ED6DE6BDD5
+C53C70CB-7B8F-4210-B143-04563AC72B4C
+2689F9A9-482F-457E-9DB8-A5EB20968004
+548A36FB-543E-461D-A339-BCFE719FC31E
+6002F162-7A9B-4CED-8B2D-8683DB06602E
+EA1894FE-04E0-4321-9FD3-5A96E444DA07
+FD03D449-40B4-4010-8120-8BD5B242883E
+7CABACBB-FC77-4CF7-B057-A7CE21E9EEED
+FE91E33C-B367-477F-B89F-5156CA0465F8</value>
+  </data>
+  <data name="Script_AlterProc_AddFilial" xml:space="preserve">
+    <value>ALTER PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_AddFilial]
+	@filialId uniqueidentifier
+AS
+BEGIN
+	insert into [dbo].[TempTable_PaymentMethodsUpdater_ProcessedFilials] ([FilialId]) values( @filialId)
+END
+
+GRANT EXECUTE ON [dbo].[TempProc_PaymentMethodsUpdater_AddFilial] TO [granted_access] AS [dbo]</value>
+  </data>
+  <data name="Script_AlterProc_GetparentIdByLogin" xml:space="preserve">
+    <value>ALTER PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_GetParentIdByLogin]
+	@login nvarchar(250)
+AS
+BEGIN
+	declare @partyId uniqueidentifier
+
+	select @partyId = partyId from UserList where [LoginName] = @login;
+	select parentId 
+	from objectInstance oi
+	join ObjectHierarchy oh
+	on oi.id = oh.NodeID
+	where oi.id = @partyId;
+	return;
+END
+
+GRANT EXECUTE ON [dbo].[TempProc_PaymentMethodsUpdater_GetParentIdByLogin] TO [granted_access] AS [dbo]</value>
+  </data>
+  <data name="Script_AlterProc_WasFilialProcessed" xml:space="preserve">
+    <value>ALTER PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_WasFilialProcessed]
+	@filialId uniqueidentifier
+AS
+BEGIN
+	select * from [dbo].[TempTable_PaymentMethodsUpdater_ProcessedFilials]  where FilialId = @filialId
+END
+GRANT EXECUTE ON [dbo].[TempProc_PaymentMethodsUpdater_WasFilialProcessed] TO [granted_access] AS [dbo]</value>
+  </data>
+  <data name="Script_CreateProc_AddFilial" xml:space="preserve">
+    <value>IF NOT EXISTS (SELECT * FROM SYS.OBJECTS WHERE OBJECT_ID = OBJECT_ID(N'[dbo].[TempProc_PaymentMethodsUpdater_AddFilial]') AND TYPE IN (N'P', N'PC'))
+      EXEC('CREATE PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_AddFilial] AS')
+
+</value>
+  </data>
+  <data name="Script_CreateProc_GetparentIdByLogin" xml:space="preserve">
+    <value>IF NOT EXISTS (SELECT * FROM SYS.OBJECTS WHERE OBJECT_ID = OBJECT_ID(N'[dbo].[TempProc_PaymentMethodsUpdater_GetParentIdByLogin]') AND TYPE IN (N'P', N'PC'))
+      EXEC('CREATE PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_GetParentIdByLogin] AS')
+
+</value>
+  </data>
+  <data name="Script_CreateProc_WasFilialProcessed" xml:space="preserve">
+    <value>IF NOT EXISTS (SELECT * FROM SYS.OBJECTS WHERE OBJECT_ID = OBJECT_ID(N'[dbo].[TempProc_PaymentMethodsUpdater_WasFilialProcessed]') AND TYPE IN (N'P', N'PC'))
+      EXEC('CREATE PROCEDURE [dbo].[TempProc_PaymentMethodsUpdater_WasFilialProcessed] AS')
+
+</value>
+  </data>
+  <data name="Script_CreateTable_Filials" xml:space="preserve">
+    <value>IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TempTable_PaymentMethodsUpdater_ProcessedFilials]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[TempTable_PaymentMethodsUpdater_ProcessedFilials](
+	[FilialId] uniqueidentifier PRIMARY KEY
+)
+END</value>
+  </data>
+  <data name="Script_DropProc_AddFilial" xml:space="preserve">
+    <value>drop procedure [dbo].[TempProc_PaymentMethodsUpdater_AddFilial]</value>
+  </data>
+  <data name="Script_DropProc_GetParentIdByLogin" xml:space="preserve">
+    <value>drop procedure [dbo].[TempProc_PaymentMethodsUpdater_GetParentIdByLogin]</value>
+  </data>
+  <data name="Script_DropProc_WasFilialProcessed" xml:space="preserve">
+    <value>drop procedure [dbo].[TempProc_PaymentMethodsUpdater_WasFilialProcessed]</value>
+  </data>
+  <data name="Script_DropTable_Filials" xml:space="preserve">
+    <value>drop table [dbo].[TempTable_PaymentMethodsUpdater_ProcessedFilials]</value>
+  </data>
+  <data name="TableName_Filials" xml:space="preserve">
+    <value>TempTable_PaymentMethodsUpdater_ProcessedFilials</value>
+  </data>
+</root>
